@@ -23,6 +23,7 @@ public class MySpringBootApplication {
 	{
 		return "Hola mundo";
 	}
+
 	@RequestMapping("/mimedicacion")
 
 	String mimedicacion()
